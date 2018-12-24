@@ -7,6 +7,7 @@ How to add a group live chat to your React Native video app.
 
 - Node.js ( `>=8` )
 - A [Pusher Chatkit](https://dash.pusher.com) application.
+- React native
 
 #### Getting started
 
