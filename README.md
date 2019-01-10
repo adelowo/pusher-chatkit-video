@@ -1,6 +1,7 @@
 # pusher-chatkit-video
 
-How to add a group live chat to your React Native video app.
+How to add a group live chat to your React Native video app. This tutorial can be 
+followed at https://pusher.com/tutorials/chat-react-native-video
 
 
 #### Prerequisites
